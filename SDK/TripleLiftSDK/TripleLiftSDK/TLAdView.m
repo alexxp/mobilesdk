@@ -74,7 +74,7 @@
         return NO;
     }
     if ([urlString containsString:@"tl_clickthrough=true"]) {
-        [[UIApplication sharedApplication] openURL:request.URL options:@{} completionHandler:nil];
+        [[UIApplication sharedApplication] openURL:request.URL];
         return NO;
     }
     
