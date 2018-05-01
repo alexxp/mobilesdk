@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TLSDKSampleApp/ViewController2.swift"
+            timestampString = "540482184.233192"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "adReady(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TLSDKSampleApp.ViewController2.loadAd() -&gt; ()"
+                  moduleName = "TLSDKSampleApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexanderprokofiev/projects/ios/TLSDKSampleApp/TLSDKSampleApp/ViewController2.swift"
+                  timestampString = "528749342.076397"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TLSDKSampleApp.ViewController2.loadAd() -&gt; ()"
+                  moduleName = "TLSDKSampleApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexanderprokofiev/projects/ios/TLSDKSampleApp/TLSDKSampleApp/ViewController2.swift"
+                  timestampString = "528749342.078158"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "1416">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

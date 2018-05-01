@@ -1,0 +1,21 @@
+PODS:
+  - TripleLiftSDK (0.0.7)
+
+DEPENDENCIES:
+  - TripleLiftSDK (from `git@github.com:triplelift-internal/mobile-sdk-ios.git`)
+
+EXTERNAL SOURCES:
+  TripleLiftSDK:
+    :git: git@github.com:triplelift-internal/mobile-sdk-ios.git
+
+CHECKOUT OPTIONS:
+  TripleLiftSDK:
+    :commit: b380a1f1c391f2b760a543056e8bca90c245e925
+    :git: git@github.com:triplelift-internal/mobile-sdk-ios.git
+
+SPEC CHECKSUMS:
+  TripleLiftSDK: bcbad4a4ea776de5dfa3cd026e12c75a5369dffd
+
+PODFILE CHECKSUM: f3d423da0bc7168b92c8095fbd9e97a73007cbd2
+
+COCOAPODS: 1.1.1
