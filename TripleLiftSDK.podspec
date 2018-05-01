@@ -20,7 +20,8 @@ Pod::Spec.new do |s|
   s.author = { "Alexander Prokofiev" => "aprokofiev@triplelift.com" }
 
   s.homepage = "http://www.triplelift.com"
-  s.source = { :git => "git@github.com:triplelift-internal/mobile-sdk-ios.git", :tag => "#{s.version}"}
+  s.source = { :git => "git@github.com:alexxp/mobilesdk.git", :tag => "#{s.version}"}
+
 
   s.framework = 'XCTest', 'Foundation'
   s.framework = "UIKit"
