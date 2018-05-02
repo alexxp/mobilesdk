@@ -1,0 +1,24 @@
+{
+  "name": "TripleLiftSDK",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "version": "0.0.7",
+  "summary": "TripleLiftSDK is an Ad SDK for publishers",
+  "license": {
+    "type": "BSD",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Alexander Prokofiev": "aprokofiev@triplelift.com"
+  },
+  "homepage": "http://www.triplelift.com",
+  "source": {
+    "git": "git@github.com:alexxp/mobilesdk.git",
+    "tag": "0.0.7"
+  },
+  "frameworks": "UIKit",
+  "source_files": "SDK/**/*.{h,m,swift}",
+  "exclude_files": "SDK/**/*Tests.*",
+  "resources": "SDK/**/*.{png,jpeg,jpg,storyboard,xib}"
+}

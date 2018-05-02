@@ -3,5 +3,5 @@ project 'TLSDKSampleApp.xcodeproj'
 
 target 'TLSDKSampleApp' do
 #     pod 'TripleLiftSDK', :path => '~/projects/ios/mobile-sdk-ios-2'
-pod 'TripleLiftSDK', :git => 'git@github.com:triplelift-internal/mobile-sdk-ios.git'
+pod 'TripleLiftSDK', :git => 'git@github.com:alexxp/mobilesdk.git'
 end
