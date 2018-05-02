@@ -1,6 +1,0 @@
-framework module TripleLiftSDK {
-  umbrella header "TripleLiftSDK-umbrella.h"
-
-  export *
-  module * { export * }
-}
