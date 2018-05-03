@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A8012E4F1F87C742007EE2E8 /* TLAdSignals.h in Headers */ = {isa = PBXBuildFile; fileRef = A8012E4B1F87C741007EE2E8 /* TLAdSignals.h */; };
-		A8012E501F87C742007EE2E8 /* TLAdView.h in Headers */ = {isa = PBXBuildFile; fileRef = A8012E4C1F87C741007EE2E8 /* TLAdView.h */; };
+		A8012E4F1F87C742007EE2E8 /* TLAdSignals.h in Headers */ = {isa = PBXBuildFile; fileRef = A8012E4B1F87C741007EE2E8 /* TLAdSignals.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		A8012E501F87C742007EE2E8 /* TLAdView.h in Headers */ = {isa = PBXBuildFile; fileRef = A8012E4C1F87C741007EE2E8 /* TLAdView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A8012E511F87C742007EE2E8 /* TLAdView.m in Sources */ = {isa = PBXBuildFile; fileRef = A8012E4D1F87C741007EE2E8 /* TLAdView.m */; };
 		A8012E521F87C742007EE2E8 /* TLAdSignals.m in Sources */ = {isa = PBXBuildFile; fileRef = A8012E4E1F87C742007EE2E8 /* TLAdSignals.m */; };
 		A8012E551F87C7FB007EE2E8 /* TLAdViewTest.m in Sources */ = {isa = PBXBuildFile; fileRef = A8012E541F87C7FB007EE2E8 /* TLAdViewTest.m */; };

@@ -6,7 +6,7 @@
 //
 
 import UIKit
-import TripleLiftSDK
+//import TripleLiftSDK
 
 class ViewController: UIViewController, TLAdLoadDelegate {
 

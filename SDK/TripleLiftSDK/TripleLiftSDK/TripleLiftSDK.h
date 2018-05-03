@@ -16,4 +16,6 @@ FOUNDATION_EXPORT const unsigned char TripleLiftSDKVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <TripleLiftSDK/PublicHeader.h>
 
+#import "TLAdView.h"
+#import "TLAdSignals.h"
 
